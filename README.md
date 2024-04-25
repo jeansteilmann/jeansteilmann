@@ -19,7 +19,12 @@
 - 🎓 Information systems student @ [UFSM](https://www.ufsm.br/)
 -  📍  Rio Grande do Sul, Brazil
 - 🚀 Improving knowledge in back-end development
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeansteilmann&show_icons=true&locale=en&layout=compact" alt="jeansteilmann" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeansteilmann&show_icons=true&locale=en" alt="jeansteilmann" /></p>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeansteilmann&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jeansteilmann" />
+</a>
+
 
