@@ -22,8 +22,8 @@
 - 🚀 Improving knowledge in back-end development
 
 <a href="https://github.com/jstrieb/github-stats/blob/master/README.md">
-  <img height=200 align="center" src="https://raw.githubusercontent.com/jeansteilmann/statsRepo/master/generated/overview.svg#gh-light-mode-only" />
+  <img height=200 align="center" src="https://raw.githubusercontent.com/jeansteilmann/github-stats/master/generated/overview.svg#gh-light-mode-only" />
 </a>
 <a href="https://github.com/jstrieb/github-stats/blob/master/README.md">
-  <img height=200 align="center" src="https://raw.githubusercontent.com/jeansteilmann/statsRepo/master/generated/languages.svg#gh-light-mode-only" />
+  <img height=200 align="center" src="https://raw.githubusercontent.com/jeansteilmann/github-stats/master/generated/languages.svg#gh-light-mode-only" />
 </a>
