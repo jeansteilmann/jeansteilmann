@@ -5,25 +5,34 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&logo=Instagram&logoColor&link=https://www.instagram.com/jeancst_/)](https://www.instagram.com/jeancst_/)
 [![Gmail Badge](https://img.shields.io/badge/-jeancsteilmann@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeancsteilmann@gmail.com)](mailto:jeancsteilmann@gmail.com)
 ## My name is Jean!
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
- 
-  
-</p>
-
 
 - 🎓 Information systems student @ [UFSM](https://www.ufsm.br/)
 -  📍  Rio Grande do Sul, Brazil
 - 🚀 Improving knowledge in back-end development
 
-<a href="https://github.com/jstrieb/github-stats/blob/master/README.md">
-  <img height=200 align="center" src="https://raw.githubusercontent.com/jeansteilmann/github-stats/master/generated/overview.svg#gh-light-mode-only" />
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Intellij" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+
+<br/>
+<br/>
+<br/>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-five-red-74.vercel.app/api/top-langs?username=jeansteilmann&show_icons=true&layout=donut&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </a>
-<a href="https://github.com/jstrieb/github-stats/blob/master/README.md">
-  <img height=200 align="center" src="https://raw.githubusercontent.com/jeansteilmann/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" alt="JeanSteilmann GitHub Stats" src="https://github-readme-stats-five-red-74.vercel.app/api?username=jeansteilmann&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </a>
+
