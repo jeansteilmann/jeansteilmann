@@ -16,15 +16,14 @@
   
 </p>
 
+
 - 🎓 Information systems student @ [UFSM](https://www.ufsm.br/)
 -  📍  Rio Grande do Sul, Brazil
 - 🚀 Improving knowledge in back-end development
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeansteilmann&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/jstrieb/github-stats/blob/master/README.md">
+  <img height=200 align="center" src="https://raw.githubusercontent.com/jeansteilmann/statsRepo/master/generated/overview.svg#gh-light-mode-only" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jeansteilmann" />
+<a href="https://github.com/jstrieb/github-stats/blob/master/README.md">
+  <img height=200 align="center" src="https://raw.githubusercontent.com/jeansteilmann/statsRepo/master/generated/languages.svg#gh-light-mode-only" />
 </a>
-
-
