@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-jeancsteilmann@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeancsteilmann@gmail.com)](mailto:jeancsteilmann@gmail.com)
 ## My name is Jean!
 
-- 🎓 Information systems student @ [UFSM](https://www.ufsm.br/)
+- 🎓 Computer Information Systems student @ [UFSM](https://www.ufsm.br/)
 -  📍  Rio Grande do Sul, Brazil
 - 🚀 Improving knowledge in back-end development
 
